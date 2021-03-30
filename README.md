@@ -1,2 +1,3 @@
 # DataScience
-Curso Data Science
+Exercícios durante minha jornada de cursos de Data Science
+
